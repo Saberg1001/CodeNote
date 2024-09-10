@@ -7,6 +7,7 @@ Python 教程
    :maxdepth: 1
    :caption: 目录
 
+   python.md
    matplotlib.md
    pyquery.md
    pytest.md
